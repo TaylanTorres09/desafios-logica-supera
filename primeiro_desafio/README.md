@@ -12,4 +12,5 @@ A primeira linha de entrada contém um único inteiro positivo N (1 < N <= 105) 
 
 
 ##Saída
+
 Apresente todos os valores lidos na entrada segundo a ordem apresentada acima. Cada número deve ser impresso em uma linha, conforme exemplo abaixo.
