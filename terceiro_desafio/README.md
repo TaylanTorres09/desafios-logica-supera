@@ -20,3 +20,6 @@ int: O número de pares que satisfazem o critério.
 Seu código deve conter duas entradas n e k, que representam o tamanho do array e o valor
 alvo.
 Seu código deve conter um array de inteiros, de tamanho n.
+
+## Resultado
+![result](../README_IMG/desafio3.png)
