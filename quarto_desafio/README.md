@@ -28,3 +28,6 @@ original, conforme especificação acima.
 ## Saída
 Para cada linha de entrada deverá ser impressa uma linha de saída com a frase decifrada,
 conforme a especificação acima.
+
+## Resultado
+![result](../README_IMG/desafio4.png)
